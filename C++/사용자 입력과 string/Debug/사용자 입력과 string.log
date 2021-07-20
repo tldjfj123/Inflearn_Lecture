@@ -1,0 +1,3 @@
+﻿  사용자 입력과 string.cpp
+C:\Users\안성준\Desktop\프로그래밍\인프런\C++\사용자 입력과 string\사용자 입력과 string.cpp(33,7): warning C4101: 'char1' :참조되지 않은 지역 변수입니다.
+  사용자 입력과 string.vcxproj -> C:\Users\안성준\Desktop\프로그래밍\인프런\C++\사용자 입력과 string\Debug\사용자 입력과 string.exe
